@@ -1,3 +1,9 @@
+/*Define a class to represent a bank account. Include the following members:
+1. Data Member:
+-Name of the depositor
+-Account Number
+-Type of Account
+-Balance amount in the account */
 #include<iostream>
 #include<string.h>
 using namespace std;
